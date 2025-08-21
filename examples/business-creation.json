@@ -1,0 +1,10 @@
+{
+  "business_name": "ABC Plumbing & Heating",
+  "owner_name": "John Smith",
+  "owner_phone": "+15559876543",
+  "slack_webhook_url": "https://hooks.slack.com/services/T1234567890/B1234567890/abcdefghijklmnopqrstuvwx",
+  "retell_agent_id": "agent_abc_plumbing_001",
+  "phone_number": "+15551234567",
+  "area_code": "555",
+  "custom_instructions": "We offer 24/7 emergency services. For emergency calls, emphasize our quick response time. We specialize in residential and commercial plumbing, heating, and HVAC services. Our team is licensed and insured."
+}

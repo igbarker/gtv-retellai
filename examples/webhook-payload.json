@@ -1,0 +1,11 @@
+{
+  "call_id": "call_abc123def456",
+  "call_status": "completed",
+  "agent_id": "agent_plumbing_company_001",
+  "call_duration": 180,
+  "transcript": "Hello, thank you for calling ABC Plumbing. How may I help you today? Hi, my name is John Smith. I have a leaky faucet in my kitchen. My phone number is 555-123-4567. I live at 123 Main Street, Anytown, CA 90210. I need someone to come fix it as soon as possible. Thank you for calling ABC Plumbing. I have your information: John Smith, phone 555-123-4567, address 123 Main Street, Anytown, CA 90210, and you need a leaky faucet repaired. Someone will get back to you soon. Have a great day!",
+  "recording_url": "https://recordings.retellai.com/call_abc123def456.mp3",
+  "from_number": "+15551234567",
+  "to_number": "+15559876543",
+  "cost": 0.0273
+}
